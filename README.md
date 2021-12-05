@@ -1,6 +1,6 @@
 # Tabuada
 
-* 🖥️ Exercício: Laços (1) - Tabuada
+* 🖥️ Exercício: Laços (4) - Tabuada
 * 🏫 Instituição: Etec Adolpho Berezin
 * ✨ Curso: Técnico em Informática
 * 👨‍🏫 Orientador: <a href="https://github.com/ermogenes">Prof.: Ermogenes</a> & <a href="https://github.com/diegoneri">Prof.: Diego Neri</a>
